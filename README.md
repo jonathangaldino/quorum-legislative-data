@@ -55,10 +55,6 @@ As of now, the risks are low.
 - Pandas library
 - Numpy
 
-# Alternative solutions
-
-I considered using Node.js because it is the runtime that I feel comfortable with and to use some panda-like library to achieve our goals. Even tho we have a similar library in the Javascript ecosystem, the size of the community (people using, talking about, and more) is considerably smaller, which makes things hard if we need to google for a problem or examples.
-
 # Future improvements
 
 ### New columns
